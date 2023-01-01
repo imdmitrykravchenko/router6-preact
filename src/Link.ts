@@ -107,7 +107,7 @@ class InnerLink extends Component<InnerLinkProps, {}> {
       to,
       params,
       query,
-      href: String(propsHref),
+      href: propsHref && String(propsHref),
     });
 
     return createElement(

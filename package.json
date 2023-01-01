@@ -1,6 +1,6 @@
 {
   "name": "router6-preact",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "router6 preact bindings",
   "main": "dist/index.js",
   "scripts": {
