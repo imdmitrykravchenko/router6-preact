@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": false,
+    "lib": ["dom", "esnext"],
+    "esModuleInterop": true,
+    "declaration": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["./src/*"]
+}
